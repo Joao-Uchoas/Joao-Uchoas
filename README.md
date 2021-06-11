@@ -9,6 +9,7 @@ I have knowledge in Java, C and basic knowledge in data architecture, UX archite
 <br>
 💻 I like the impossible because there’s less competition.
 
+
 <br>
 <p align="left">
   
