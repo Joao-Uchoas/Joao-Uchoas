@@ -8,8 +8,8 @@ I have knowledge in Java, C and basic knowledge in data architecture, UX archite
 
 <br>
 💻 I like the impossible because there’s less competition.
-<br>
 
+<br>
 <p align="left">
   
   <a href="https://www.linkedin.com/in/joão-uchôas" alt="Linkedin">
