@@ -1,5 +1,5 @@
 # Hey guys!👾
-<img src="https://raw.githubusercontent.com/Joao-Uchoas/Joao-Uchoas/main/imagem.png" width="350px" height="300px" align="right">
+<img src="https://raw.githubusercontent.com/Joao-Uchoas/Joao-Uchoas/main/imagem.png" width="300px" height="250px" align="right">
 
 My name is João Uchôas, and I'm from Brazil 🇧🇷.
 
