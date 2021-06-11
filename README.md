@@ -6,10 +6,13 @@ My name is João Uchôas, and I'm from Brazil 🇧🇷.
 
 I'm in the third year of the Computer Engineering course at Facens; I have a technical background in Mechatronics.
 I have knowledge in Java, C and basic knowledge in data architecture, UX architecture and MVC pattern.
-<br>
+
+
 💻 "I like the impossible because there’s less competition"🧠
-<br>
+
+
 Reach me out! 👇🏽
+
 <p align="left">
   
   <a href="https://www.linkedin.com/in/joão-uchôas" alt="Linkedin">
